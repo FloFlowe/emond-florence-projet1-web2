@@ -1,1 +1,1 @@
-# emond-florence-projet1-web2
+# Projet 1 : assemblage d'interface
